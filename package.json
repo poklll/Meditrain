@@ -1,0 +1,19 @@
+{
+  "name": "meditrain",
+  "version": "1.0.0",
+  "description": "free medical skill learning website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poklll/Meditrain.git"
+  },
+  "author": "Ronnakorn Duangjunchot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poklll/Meditrain/issues"
+  },
+  "homepage": "https://github.com/poklll/Meditrain#readme"
+}
